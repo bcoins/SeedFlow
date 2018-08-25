@@ -1,0 +1,13 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 24848812b6ced9eb21e73f502372dcf406c3923e)
++++ README.md	(date 1535205975512)
+@@ -1,1 +1,2 @@
+-# SeedFlow
+\ No newline at end of file
++# SeedFlow
++# Lets begin
+\ No newline at end of file
